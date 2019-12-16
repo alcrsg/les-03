@@ -5,18 +5,8 @@ body {
 
 h1, h2, h3 {
     color: rgb(255, 255, 255);
-    font-family: 'yeseva_oneregular', Arial, Helvetica, sans-serif;
 }
 
 p {
     color: rgb(255, 255, 255);
-}
-
-@font-face {
-    font-family: 'yeseva_oneregular';
-    src: url('yesevaone-regular_v2-webfont.woff2') format('woff2'),
-         url('yesevaone-regular_v2-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
 }
